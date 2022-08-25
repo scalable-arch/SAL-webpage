@@ -1,5 +1,5 @@
 ---
-title: "The 19th International SoC Conference (ISOCC 2022)"
+title: "Adaptive Granularity On-die ECC"
 category: Reliability
 tags: ISOCC
 pub-type: C

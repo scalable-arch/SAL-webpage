@@ -1,5 +1,5 @@
 ---
-title: "The 19th International SoC Conference (ISOCC 2022)"
+title: "YOCO: Unified and Efficient Memory Protection for High Bandwidth Memory"
 category: Reliability
 tags: ISOCC
 pub-type: C

@@ -47,43 +47,17 @@ Prof. Kim graduated from Seoul Science High School for gifted students in 1997. 
 
 ---
 
+# Ph.D Students
+- Yeshin Ryu / 유예신
+  - E-mail : 
+  - Department : Semiconductor and Display Engineering
+
+# Integrated M.S. - Ph.D Students
+- XXX / XXX
+  - E-mail : 
+  - Department : Semiconductor and Display Engineering
+
 # M.S. Students
-
-- **Hoyong Jin / 진호용**
-	- E-mail : **jin8495** at **g** dot **skku** dot **edu**
-	- Department : Electrical and Computer Engineering
-
-
-- **Donghun Jeong / 정동훈**
-	- E-mail : **dounghun22** at **g** dot **skku** dot **edu**
-	- Department : Electrical and Computer Engineering
-
-
-- **Taewon Park / 박태원**
-	- E-mail : **pdtowctor** at **gmail** dot **com**
-	- Department : Semiconductor and Display Engineering
-
-
-- **Sangje Park / 박상제**
-  - E-mail : **mainpower4309** at **gmail** dot **com**
-  - Department : Electrical and Computer Engineering
-
-
-- **Jihun Park / 박지훈**
-	- E-mail : **jihun** dot **park1012** at **gmail** dot **com**
-	- Department : Artificial Intelligence
-
-
-- **Yuseok Song / 송유석**
-	- E-mail : **songys1223** at **gmail** dot **com**
-	- Department : Electrical and Computer Engineering
-
-
-- **Daero Kim / 김대로**
-	- E-mail : **road_load** at **naver** dot **com**
-	- Department : Semiconductor and Display Engineering
-
-
 - **Dongwhee Kim / 김동휘**
 	- E-mail : **xyz123479** at **naver** dot **com**
 	- Department : Semiconductor and Display Engineering
@@ -108,4 +82,19 @@ Prof. Kim graduated from Seoul Science High School for gifted students in 1997. 
 	- E-mail : **hjhj8794** at **gmail** dot **com**
 	- Department : Electrical and Computer Engineering
 
----
+- **Soyoung Park / 박소영**
+	- E-mail : **soyong0504** at **gmail** dot **com**
+	- Department : Artificial Intelligence
+
+
+- **Yujin Lim / 임유진**
+	- E-mail : **dbwls1229** at **kakao** dot **com**
+	- Department : Electrical and Computer Engineering
+
+
+- **Junseung Lee / 이준승**
+	- E-mail : **junseung0728** at **naver** dot **com**
+	- Department : Electrical and Computer Engineering
+
+
+--

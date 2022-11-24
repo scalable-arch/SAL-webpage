@@ -48,13 +48,13 @@ Prof. Kim graduated from Seoul Science High School for gifted students in 1997. 
 ---
 
 # Ph.D Students
-- Yeshin Ryu / 유예신
-  - E-mail : 
+- **Yeshin Ryu / 유예신**
+  - E-mail : **ID** at **Domain** dot **com**
   - Department : Semiconductor and Display Engineering
 
 # Integrated M.S. - Ph.D Students
-- XXX / XXX
-  - E-mail : 
+- **XXX / XXX**
+  - E-mail : **ID** at **Domain** dot **com**
   - Department : Semiconductor and Display Engineering
 
 # M.S. Students

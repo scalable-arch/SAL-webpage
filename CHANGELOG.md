@@ -5,6 +5,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [1.4.6] - 2022-11-24
+- Add alumni page.
+- Add Ph.D and Integraed M.S. - Ph.D sutdnets in people page.
+
 ## [1.4.5] - 2021-07-05
 
 ## Added

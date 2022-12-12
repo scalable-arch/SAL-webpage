@@ -11,4 +11,4 @@ layout: page
 * **Donghun Jeong** (M.S.) - SK Hynix (2023.01 ~)
 * **Jinhun Park** (M.S.) - SK Hynix (2023.01 ~)
 * **Taewon Park** (M.S.) - Samsung Electronics System LSI (2023.01 ~)
-* **Yueseok Song** (M.S.) - 
+* **Yueseok Song** (M.S.) - Samsung Electronics Memory (2023.01 ~)

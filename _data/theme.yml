@@ -50,6 +50,7 @@ google_fonts:
 
 navigation_pages:
   - people.md
+  - alumni.md
   - research.md
   - publications.md
   - resources.md

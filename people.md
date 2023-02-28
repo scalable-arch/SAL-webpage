@@ -54,12 +54,12 @@ Prof. Kim graduated from Seoul Science High School for gifted students in 1997. 
 
  	
 # Integrated M.S. - Ph.D Students
-- **Yongsang Yu / 유용상 **
+- **Yongsang Yu / 유용상**
 	- E-mail : **siniryus** at **gmail** dot **com**
 	- Department : Semiconductor and Display Engineering
 
 
-- **Hyunseo Lim / 임현서 **
+- **Hyunseo Lim / 임현서**
 	- E-mail : **hyunseo** dot **lim0** at **gmail** dot **com**
 	- Deparment : Electrical and Computer Engineering
 

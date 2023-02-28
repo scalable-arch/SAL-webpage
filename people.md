@@ -48,10 +48,20 @@ Prof. Kim graduated from Seoul Science High School for gifted students in 1997. 
 ---
 
 # Ph.D Students
-To be updated!
+- **Yesin Ryu / 유예신**
+	- E-mail : **seleneyou1** at **gmail** dot **com**
+	- Department : Semiconductor and Display Engineering
 
+ 	
 # Integrated M.S. - Ph.D Students
-To be updated!
+- **Yongsang Yu / 유용상 **
+	- E-mail : **siniryus** at **gmail** dot **com**
+	- Department : Semiconductor and Display Engineering
+
+
+- **Hyunseo Lim / 임현서 **
+	- E-mail : **hyunseo** dot **lim0** at **gmail** dot **com**
+	- Deparment : Electrical and Computer Engineering
 
 # M.S. Students
 - **Dongwhee Kim / 김동휘**
@@ -78,6 +88,7 @@ To be updated!
 	- E-mail : **hjhj8794** at **gmail** dot **com**
 	- Department : Electrical and Computer Engineering
 
+
 - **Soyoung Park / 박소영**
 	- E-mail : **soyong0504** at **gmail** dot **com**
 	- Department : Artificial Intelligence
@@ -90,6 +101,11 @@ To be updated!
 
 - **Junseung Lee / 이준승**
 	- E-mail : **junseung0728** at **naver** dot **com**
+	- Department : Electrical and Computer Engineering
+
+
+- **Yoonyul Yoo / 유윤열**
+	- E-mail : **soodoju** at **gmail** dot **com**
 	- Department : Electrical and Computer Engineering
 
 

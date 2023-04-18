@@ -6,4 +6,4 @@ pub-type: C
 ---
 
 **Dongwhee Kim**, **Yujin Lim**, **Syngha Han**, and **Jungrae Kim** <br>
-Journal of KIISE, Oral, March. 2023
+Journal of KIISE, Journal, March. 2023

@@ -1,6 +1,6 @@
 ---
 title: "EPA ECC : Error-Pattern-Aligned ECC for HBM2E"
-category: Computer Architecture
+category: Reliability
 tags: ITC-CSCC
 pub-type: C
 ---

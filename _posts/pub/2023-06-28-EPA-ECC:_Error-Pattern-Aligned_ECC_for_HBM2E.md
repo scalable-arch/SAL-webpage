@@ -6,4 +6,4 @@ pub-type: C
 ---
 
 **Kiheon Kwon**, **Dongwhee Kim**, **Soyoung Park**, and **Jungrae Kim** <br>
-International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC23), oral, June. 2023
+International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC23), Oral, June. 2023
